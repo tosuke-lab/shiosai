@@ -1,0 +1,19 @@
+{
+  "name": "shiosai",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/Tosuke/shiosai",
+  "author": "Tosuke <tasukeprg@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "@google-cloud/firestore": "^2.2.6",
+    "axios": "^0.19.0",
+    "firebase-admin": "^8.3.0",
+    "transform-ts": "^0.2.2"
+  }
+}
