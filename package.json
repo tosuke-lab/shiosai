@@ -17,7 +17,7 @@
     "axios": "^0.19.2",
     "firebase-admin": "^8.9.2",
     "gemoji": "^5.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "transform-ts": "^0.3.0"
   }
 }
